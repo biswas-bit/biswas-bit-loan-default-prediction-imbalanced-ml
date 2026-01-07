@@ -1,5 +1,6 @@
+datasets/
+*.pyc
+__pycache__/
+
 venv/
 .venv/
-.dist/
-
-datasets/
