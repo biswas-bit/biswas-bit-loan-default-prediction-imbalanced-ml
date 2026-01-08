@@ -3,7 +3,7 @@
 
 ## 1. Dataset Overview
 
-- Total rows: 610 (example)
+- Total rows: 610 
 - Total columns: 122
 - Target variable: TARGET (0 = non-default, 1 = default)
 - Data types: numeric, binary, categorical
