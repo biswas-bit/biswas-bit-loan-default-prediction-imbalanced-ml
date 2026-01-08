@@ -2,5 +2,7 @@ datasets/
 *.pyc
 __pycache__/
 
+trainning/.ipynb_checkpoints/
+
 venv/
 .venv/
