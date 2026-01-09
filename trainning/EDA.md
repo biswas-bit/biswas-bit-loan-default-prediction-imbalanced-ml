@@ -32,5 +32,5 @@ numeric_cols = numerical_data(df)
 binary_cols = binary_data(df)
 cat_cols = categorical_data(df) 
 ```
-**Observation:**Features separated to ensure proper preprocessing pipelines for modeling.
+**Observation:** Features separated to ensure proper preprocessing pipelines for modeling.
 '''
